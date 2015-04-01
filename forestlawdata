@@ -1,0 +1,67 @@
+Country,ISO,FCPF,UN-REDD,both UN-REDD & FCPF,CITES,Nagoya Protocol,CBD,UNFCCC,ILO196,UNDRIP
+Argentina,ar,y,programme,y,y,n,y,y,y,y
+Bangladesh,bd,n,programme,n,y,n,y,y,n,a
+Belize,bz,y,n,n,y,n,y,y,n,y
+Benin,bj,n,partner,n,y,y,y,y,n,y
+"Bolivia, Plurinational State of",bo,y,programme,y,y,n,y,y,y,y
+Bhutan,bt,y,partner,y,y,y,y,y,n,a
+Burkina Faso,bf,y,n,n,y,y,y,y,n,y
+Cambodia,kh,y,programme,y,y,y,y,y,n,y
+Cameroon,cm,y,partner,y,y,n,y,y,n,y
+Central African Republic,cf,y,partner,y,y,n,y,y,y,y
+Chad,td,n,partner,n,y,n,y,y,n,a
+Chile,cl,y,partner,y,y,n,y,y,y,y
+Colombia,co,y,programme,y,y,n,y,y,y,a
+"Congo, Democratic Republic of",cd,y,programme,y,y,y,y,y,n,y
+"Congo, Republic of",cg,y,programme,y,y,n,y,y,n,y
+Costa Rica,cr,y,partner,y,y,n,y,y,y,y
+Côte d'Ivoire,ci,y,programme,y,y,y,y,y,n,a
+Dominican Republic,do,y,n,n,y,y,y,y,n,y
+Ecuador,ec,n,programme,y,y,n,y,y,y,y
+El Salvador,sv,y,n,n,y,n,y,y,n,y
+Equatorial Guinea,gq,n,partner,n,y,n,y,y,n,a
+Ethiopia,et,y,partner,y,y,y,y,y,n,a
+Fiji,fj,y,partner,y,y,y,y,y,y,a
+Gabon,ga,y,partner,y,y,y,y,y,n,y
+Ghana,gh,y,partner,y,y,n,y,y,n,y
+Guatemala,gt,y,partner,y,y,y,y,y,y,y
+Guinea Bissau,gw,n,partner,n,y,y,y,y,n,a
+Guyana,gy,y,partner,y,y,y,y,y,n,y
+Honduras,hn,y,partner,y,y,y,y,y,y,y
+Indonesia,id,y,programme,y,y,y,y,y,n,y
+Kenya,ke,y,partner,y,y,y,y,y,n,a
+Lao People's Democratic Republic,la,y,partner,y,y,y,y,y,n,y
+Liberia,lr,y,partner,y,y,n,y,y,n,y
+Madagascar,mg,y,partner,y,y,y,y,y,n,y
+Malawi,mw,n,partner,n,y,y,y,y,n,y
+Malaysia,my,n,partner,n,y,n,y,y,n,y
+Mexico,mx,y,partner,y,y,y,y,y,y,y
+Mongolia,mn,n,programme,n,y,y,y,y,n,y
+"Morocco
+",ma,n,partner,n,y,n,y,y,n,a
+Mozambique,mz,y,n,y,y,y,y,y,n,y
+Myanmar,mm,n,partner,n,y,y,y,y,n,y
+Nepal,np,y,partner,y,y,n,y,y,y,y
+Nicaragua,ni,y,n,n,y,n,y,y,y,y
+Nigeria,ng,y,programme,y,y,n,y,y,n,a
+Pakistan,pk,y,partner,y,y,n,y,y,n,y
+Panama,pa,y,programme,y,y,y,y,y,n,y
+Papua New Guinea,pg,y,programme,y,y,n,y,y,n,a
+Paraguay,py,y,programme,y,y,n,y,y,y,y
+Peru,pe,y,partner,y,y,y,y,y,y,y
+Philippines,ph,n,programme,n,y,n,y,y,n,y
+Solomon Islands,sb,n,programme,n,y,n,y,y,n,a
+South Sudan,ss,n,partner,n,n,n,y,y,n,a
+Sudan,sd,y,partner,y,y,y,y,y,n,y
+Sri Lanka,lk,n,programme,n,y,n,y,y,n,y
+Suriname,sr,y,partner,y,y,n,y,y,n,y
+Tanzania,tz,y,programme,y,y,n,y,y,n,y
+Thailand,th,y,n,n,y,n,y,y,n,y
+Togo,tg,y,partner,y,y,n,y,y,n,a
+Tunisia,tn,n,partner,n,y,n,y,y,n,y
+Uganda,ug,y,partner,y,y,y,y,y,n,a
+Uruguay,uy,y,n,n,y,y,y,y,n,y
+Vanuatu,vu,y,n,n,y,y,y,y,n,a
+Vietnam,vn,y,programme,y,y,y,y,y,n,y
+Zambia,zm,n,programme,n,y,n,y,y,n,y
+Zimbabwe,zw,n,partner,n,y,n,y,y,n,y
